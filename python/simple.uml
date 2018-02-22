@@ -1,0 +1,37 @@
+@startuml
+
+start
+
+if (button: A+B) then (yes)
+    :move to next state;
+else (no)
+    if (state IS 'show coffee') then (yes)
+        :show coffee;
+    elseif (state IS 'choose card') then (yes)
+        (C)
+        detach
+        (C)
+        if (button: A) then (yes)
+            :set previous card;
+        elseif (button: B)
+            :show next card;
+        else
+            :show card;
+        endif
+    elseif (state IS 'wait for shake') then (yes)
+        (W)
+        detach
+        (W)
+        if (shaked) then (yes)
+            :move to next state;
+        else (no)
+            :show DIAMOND back;
+        endif
+    elseif (state IS 'display card') then (yes)
+        :show card;
+    endif
+endif
+
+stop
+
+@enduml
