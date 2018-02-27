@@ -1,2 +1,4 @@
+# Planning Poker
+![Image](./content/coffee.gif)
 # Activity diagram
 ![Diagram](http://www.plantuml.com/plantuml/proxy?src=https://www.planttext.com/plantuml/svg/ZP9D4e8m38NtFKLsm7W3sQZZneMwy0GLqcb7R9WsYDxUKlm3SKOMqAR9b_Te5fwbu-PS2H5NGZYiKOQlKP0U6sQoSrZELXcmHWlf3Nqc83ppCrqGcC3YbI4KC-O2Au-GMkfJEaGyWCq14g-fXOAKGao-Q97uaP77Q8SRGWfD55eKqfN9ktAWTPBTyv6XTdWnrFY8o5_dpqvFocgYD1hzBXibHW_395iQzSDFAms38WTUonEEBCLO-TlFr0ryAdlVn53UUhFSxdThEChYz9_CqlYwahVnVn-xxH7z-p58q6fJ1IKXc7KpHhKGYx098tS7)
