@@ -1,3 +1,3 @@
 # microbit-planning-poker
-## Python
-* [Source](https://github.com/Leonardas/microbit-planning-poker/tree/python/python)
+## Planning poker
+* [Source](https://github.com/Leonardas/microbit-programs/tree/python/planning-poker)
